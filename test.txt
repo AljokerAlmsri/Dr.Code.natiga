@@ -1,1 +1,1 @@
-
+SketchwareUtil.showMessage(getApplicationContext(), "قول والله مرتين ");
