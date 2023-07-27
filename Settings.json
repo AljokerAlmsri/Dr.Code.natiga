@@ -1,6 +1,6 @@
 [
   {
-    "run": "test",
+    "run": "false",
     "test": "https://aljokeralmsri.github.io/natiga/",
     "link-test": "https://aljokeralmsri.github.io/natiga/",
     "link": "http://natega.youm7.com/Home/Result",
