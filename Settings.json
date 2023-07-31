@@ -9,7 +9,7 @@
     99999chat_id99999: 9999980451670599999
   ",
      "dataResult": ".data-result",
-     "colResultItems": ".mb-3 d-flex .justify-content-center",
+     "colResultItems": ".col .resultItem",
      "name1": ".formatt3",
     "txt1": "h1",
     "fullResult": ".full-result",
