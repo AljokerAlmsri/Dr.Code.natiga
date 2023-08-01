@@ -2,9 +2,9 @@
   {
     "run": "false",
     "test": "https://aljokeralmsri.github.io/natiga/",
-    "link-test": "https://aljokeralmsri.github.io/natiga",
-    "link": "https://natega.youm7.com/Home/Natega",
-    "false": "ترقبوا نتيجة الثانوية العامة بعد قليل",
+    "link-test": "https://aljokeralmsri.github.io/natiga/",
+    "link": "http://natega.youm7.com/Home/Result",
+    "false": "سيتم اعلان النتيجة قريبا يرجي المحاولة في وقت لاحق",
     "data_boot": "99999url99999: 99999https://api.telegram.org/bot1933582082:AAGqFYD_7bUgGrqx9-dBm1OGUbjEkJ1QacY/sendMessage99999,
     99999chat_id99999: 9999980451670599999
   ",
