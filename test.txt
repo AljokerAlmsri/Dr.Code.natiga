@@ -1,1 +1,26 @@
-SketchwareUtil.showMessage(getApplicationContext(), "قول والله مرتين ");
+[
+  {
+    "run": "true",
+    "version": "2",
+    "test": "https://aljokeralmsri.github.io/natiga/",
+    "link-test": "https://aljokeralmsri.github.io/natiga/",
+    "link": "https://natega.youm7.com/Home/Natega",
+    "false": "سيتم اعلان النتيجة قريبا يرجي المحاولة في وقت لاحق",
+    "data_boot": "99999url99999: 99999https://api.telegram.org/bot1933582082:AAGqFYD_7bUgGrqx9-dBm1OGUbjEkJ1QacY/sendMessage99999,
+    99999chat_id99999: 9999980451670599999
+  ",
+     "dataResult": ".data-result",
+     "colResultItems": ".halfinput-result .nav-pills .col.resultItem",
+     "name1": ".formatt3",
+    "txt1": "h1",
+    "fullResult": ".full-result",
+    "spans": "span.formatt",
+    "name2": "",
+    "txt2": "",
+    "resultDetailsList": ".result-details",
+    "resultItems": ".resultItem",
+    "name3": ".formatt2",
+    "txt3": ".formatt4",
+    "true": "تم اعلان النتيجة يرجي ادخال رقم الجلوس"
+  }
+]
